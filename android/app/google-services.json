@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "970315576425",
+    "project_id": "fitness-app-4ab7d",
+    "storage_bucket": "fitness-app-4ab7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970315576425:android:3bc23b8068fb4b8092def8",
+        "android_client_info": {
+          "package_name": "com.example.bmi_calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970315576425-63qkd97ifs9ncmo3hr3bp6s526g1ap55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOMGQ57hcOjAUh6gjMgJ4hZhe-uOht8uY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970315576425-63qkd97ifs9ncmo3hr3bp6s526g1ap55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
